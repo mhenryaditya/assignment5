@@ -1,5 +1,5 @@
 import Form from "./Form"
-import Table from "./table"
+import Table from "./Table"
 
 function InnerContent({data, usdVal, setUsdVal}) {
 
